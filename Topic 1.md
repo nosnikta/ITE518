@@ -1,4 +1,4 @@
-# Week 1 - Introduction to Agile
+# Topic 1 - Introduction to Agile
 ### Description
 Agile began a fast-growing concept and methodology for the development of software and has been expanding and enveloping other types of development and industries. As a broad concept Agile has become a fundamental principle upon which more specific methodologies and concepts have been built – or in some cases adopted. Methods such as **SCRUM, XP, Kanban, Lean** and more have their niches, their strengths and weaknesses depending upon their application. However they are all referred to as “agile” principles. So what defines Agile?
 
